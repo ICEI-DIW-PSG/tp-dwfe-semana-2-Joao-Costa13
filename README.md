@@ -2,13 +2,13 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: João Pedro Sousa Costa
+Matricula:929010
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![alt text](Screenshot_15.png) ![alt text](Screenshot_16.png)
 
 
 ## Orientações sobre Linguagem MarkDown
